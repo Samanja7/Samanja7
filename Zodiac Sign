@@ -6,8 +6,8 @@ yr=int(input("Enter the Year(YYYY) : "))
 
 
 Aquarius="""
-Aquarius are strange set of people
-They are MAd and Crazy
+Aquarius This member of the zodiac embodies rebellion, creativity, eccentricity, and intelligence.
+They're driven by a desire to evolve past antiquated ideals, and help society move into a more compassionate space. They can be seen as unpredictable or disorganized, but often surprise people with their streaks of brilliance and hidden genius
 """
 Pisces="""
 Pisces signs have a peaceful and gentle presence about them, with an uncanny ability to tap into the emotions of the collective. They're extremely malleable and need to be careful of who they surround themselves with. Since they are hyper-intuitive, they can sometimes become disconnected–making it important for this water sign to ground often.
