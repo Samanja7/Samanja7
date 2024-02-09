@@ -1,0 +1,14 @@
+def generate_series(length):
+   
+  series = [1, 1]
+   
+  for _ in range(2, length):
+    next_number = series [-1] + series [-2]
+    series.append(next_number)
+    
+  return series
+    
+length=int(input("determin your series(Num)"))
+
+series=generate_series(length)
+print(series)
